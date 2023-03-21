@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cinepedia</string>
+    <string name="page_title">Cinepedia</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+
+</resources>
